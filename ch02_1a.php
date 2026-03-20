@@ -2,7 +2,7 @@
 <html lang="zh-TW">
 <head>
 <meta charset="utf-8"/>
-<title><?php print "測試01"; ?></title>
+<title><?php print "測試ch02_1a"; ?></title>
 </head>
 <?php echo "<body>\n"; ?>
 <table border="1">
