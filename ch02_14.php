@@ -7,10 +7,10 @@
 <body>
 <p>
 <?php
-       $A=0;
+       $sum=0;
        for ($i=1;$i<=100;$i=$i+1) {
-         $A=$A+$i;
-         print "\$A=$A<br>";
+         $sum=$sum+$i;
+         print "\$SUM=$sum<br>";
         }
  
  ?>

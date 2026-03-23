@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>form7a.php</title>
+    <title>ch02_7b.php</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
 </head>

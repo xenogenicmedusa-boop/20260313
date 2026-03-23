@@ -8,11 +8,11 @@
 <p>
 <?php
  	   $i=0;
-       $A=0;
+       $sum=0;
         do {
          $i=$i+1; //$i++ 也可
-         $A=$A+$i;
-         print "\$A=$A<br>";
+         $sum=$sum+$i;
+         print "\$SUM=$sum<br>";
         }while ($i<100) 
  
  ?>

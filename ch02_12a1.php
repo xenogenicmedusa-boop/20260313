@@ -2,7 +2,7 @@
 <html lang="zh-TW">
 <head>
 <meta charset="utf-8"/>
-<title>ch02_7_2a.php</title>
+<title>ch02_12a1.php</title>
 </head>
 <body>
    <table border="1">

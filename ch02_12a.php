@@ -5,18 +5,21 @@
 <title>ch02_12a.php</title>
 </head>
 <body>
-<p>
+<p></p>
+      <table border="1">
 <?php
-      $A=0;
-      $B=0;
-      While ($A<=5) {
-       $A=$A+1; //$A++ 也可
-       $B=$B+$A;
-       print "\$B=$B<br>";
-      }
- ?>
-</p>
-
+      $i=0;
+      $sum=0;
+      While ($i<=100) {
+       $i=$i+1; //$i++ 也可
+       $sum=$sum+$i;
+       ?>
+       <tr>
+            <td style="width:200px;">SUM</td>
+            <td style="width:200px;"><?=$sum?></td>
+       </tr> <?php } ?>
+      </table>
+     <p></p>
 <hr/>
 
 </body>

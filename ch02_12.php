@@ -5,14 +5,14 @@
 <title>ch02_12.php</title>
 </head>
 <body>
-<p>
+<p style="padding:30px;">
 <?php
       $i=0;
-      $A=0;
+      $sum=0;
       While ($i<100) {
        $i=$i+1; //$i++ 也可
-       $A=$A+$i;
-       print "\$A=$A<br>";
+       $sum=$sum+$i;
+       print "\$SUM=$sum<br>";
       }
  ?>
 </p>
